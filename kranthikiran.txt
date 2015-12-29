@@ -1,4 +1,4 @@
-<span id="a">kranthi@guduru</span>:<span id="b">~</span><span id="c">$</span> cat kranthikiran.txt<br/><br/>
+<span id="a">kranthi@www</span>:<span id="b">~</span><span id="c">$</span> cat kranthikiran.txt<br/><br/>
 Hi, I'm Kranthi Kiran.<!-- laglaglaglaglaglaglaglaglaglaglaglag --><p>I am currently pursuing final year of my UG in CS from <a href="http://www.nitw.ac.in/" target="_blank">NIT Warangal</a>.</p><!-- qowifjqwoeijfoqweijfqweoifjqweofijqweoqwoijefoqwijefoijfqiwoefjj -->
 <p>I'm a <a href="http://www.github.com/kranthikiran01/" target="_blank">developer</a>, geek and curious human besides being an OpenSource enthusiast and the co-founder of <a href="http://www.gearsystems.org/" target="_blank">GearSystems</a>. I have experience as a Technology Analyst Intern at Goldman Sachs. I am currently working as a developer at <a href="http://wsdc.nitw.ac.in/">WSDC(Web and Software Development Cell) NITW</a>. </p><!- oqwipjefqwioefjwioqfjoiqwjfeioqwjefoi -->
 <p>I love to read, listen to music, and travel.</p><!-- owlsqweoifjqwoefijqwoeifjqwoefijwef -->
